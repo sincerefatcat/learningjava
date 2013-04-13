@@ -6,6 +6,7 @@ package com.mycompany.mavenproject1;
  */
 public class App {
   public static void main( String[] args ) {
-      System.out.println(Jorgie.getName());
+    // This is another comment.
+    System.out.println(Jorgie.getName());
   }
 }
